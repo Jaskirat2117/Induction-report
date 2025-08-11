@@ -1,6 +1,6 @@
 # Induction-report
 #Name: Jaskirat Kaur
-#Father's name: Mr. Kulvinder Singh
+<br>#Father's name: Mr. Kulvinder Singh
 #Branch name: Computer Science and Engineering
 #Registration Number: 25105993
 #Mobile Number: 8894434648
